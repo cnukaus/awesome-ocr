@@ -1,4 +1,7 @@
-# **Call for contributor(paper summary,dataset generation,algorithm implementation and any other useful resources)**
+# Project forked to shift to personal use and development training
+
+Step 1: detecting face and crop images
+Step 2. Send to IM api
 
 
 # awesome-ocr
